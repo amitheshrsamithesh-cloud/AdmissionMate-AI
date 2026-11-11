@@ -1,6 +1,0 @@
-{
-  "name": "AdmissionMate AI",
-  "description": "An intelligent student admission management platform that helps students manage documents, verify eligibility, track admission readiness, compare colleges, receive AI guidance, and organize their admission process.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
